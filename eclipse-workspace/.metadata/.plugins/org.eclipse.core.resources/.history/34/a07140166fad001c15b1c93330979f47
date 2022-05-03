@@ -1,0 +1,16 @@
+.conteudo {
+	-fx-background-color: #000;
+	-fx-font-family: "Hurricane";
+
+}
+.numero{
+	
+	-fx-text-fill: white;	
+	-fx-font-size: 28px;
+}
+
+.titulo{
+		-fx-text-fill: blue;	
+	-fx-font-size: 36px;
+	
+}

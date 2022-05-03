@@ -1,0 +1,16 @@
+package Fundamentos;
+
+import javax.swing.JOptionPane;
+
+public class ConversaoNumeroStrin 
+{
+	public static void main(String[] args) 
+	
+	{
+	
+	String Num1 = JOptionPane.showInputDialog("Digete o valor 1:");
+	String Num2 = JOptionPane.showInputDialog("Digete o valor 2:");
+		
+	}
+
+}

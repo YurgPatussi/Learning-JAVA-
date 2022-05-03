@@ -1,0 +1,11 @@
+package br.com.cod3r.app.financeiro;
+
+import br.com.cod3r.app.calculo.Calculadora;
+
+public class Test {
+public static void main(String[] args) {
+	
+
+	Calculadora calc = new Calculadora();
+
+}}

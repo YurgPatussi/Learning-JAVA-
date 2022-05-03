@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;NovoProduto.java&apos; to &apos;exercicios-JPA/src/main/java/teste.basico&apos;&#x0D;&#x0A;- Original project: &apos;exercicios-JPA&apos;&#x0D;&#x0A;- Destination element: &apos;exercicios-JPA/src/main/java/teste.basico&apos;&#x0D;&#x0A;- Original element: &apos;modelo.basico.NovoProduto.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;teste.basico" element1="/src\/main\/java&lt;modelo.basico{NovoProduto.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1645063264487" units="1" version="1.0"/>
+</session>

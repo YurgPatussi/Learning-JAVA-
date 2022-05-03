@@ -1,0 +1,4 @@
+.conteudo {
+	-fx-background-color: red;
+	-fx-font-family: "Anton";
+}
